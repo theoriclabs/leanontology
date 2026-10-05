@@ -1,0 +1,15 @@
+name = "leanontology"
+version = "0.1.0"
+defaultTargets = ["LeanOntology"]
+
+[[lean_lib]]
+name = "LeanOntology"
+
+[[lean_lib]]
+name = "Tests"
+srcDir = "tests"
+
+[[lean_exe]]
+name = "leanontology_tests"
+srcDir = "tests"
+root = "Main"

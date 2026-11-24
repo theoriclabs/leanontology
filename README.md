@@ -18,4 +18,4 @@ lake build
 lake exe leanontology_tests
 ```
 
-Lean 4.33.0. MIT licensed.
+Lean 4.36.0. MIT licensed.
